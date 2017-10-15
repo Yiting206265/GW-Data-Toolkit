@@ -23,3 +23,4 @@ redshift range: [  1.03200476e-03   1.45717724e-03   2.05744974e-03   2.90396722
 
 SNR correction: sky averaged factor: SNR*2/2.266
 The headings for the output files is listed in headings.dat
+
